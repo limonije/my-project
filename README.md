@@ -1,1 +1,1 @@
-![example workflow](https://github.com/github/docs/actions/workflows/run-tests.yml/badge.svg)
+![example workflow](https://github.com/limonije/my-project/actions/workflows/run-tests.yml/badge.svg)
